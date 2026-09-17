@@ -27,6 +27,10 @@ Two potentiometers are used in the Wokwi simulation to represent voltage and cur
 
 Power = Voltage × Current
 
+## Wokwi Simulation
+
+[View and run the project on Wokwi](https://wokwi.com/projects/475405104182581249)
+
 The energy consumption is calculated over time and displayed in kilowatt-hours (kWh). The measured values are sent to the Blynk IoT dashboard using virtual pins.
 
 ## Project Type
